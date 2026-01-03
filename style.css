@@ -1,6 +1,6 @@
 .header{
-           padding:10px;
-           justify-content:space-between;
+            padding:10px;
+            justify-content:space-between;
             display:flex;
             background-color: rgb(15, 198, 70);
             color:white;
@@ -27,4 +27,9 @@
         }
         .right{
             float:right;
+        }
+        .box{
+            margin:10px;
+            padding:5px;
+            border:1px grey solid;
         }

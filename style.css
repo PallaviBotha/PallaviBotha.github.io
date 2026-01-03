@@ -1,0 +1,30 @@
+.header{
+           padding:10px;
+           justify-content:space-between;
+            display:flex;
+            background-color: rgb(15, 198, 70);
+            color:white;
+        }
+         .footer{
+           background-color: rgb(49, 150, 150)
+        }
+        .container{
+            margin:0px;
+        }
+        *{
+              margin:0px;
+        }
+        .menu li{
+            list-style:none;
+             margin:5px;
+        }
+        .menu li a{
+            text-decoration:none;
+            color:white
+        }
+        .menu{
+            display:flex
+        }
+        .right{
+            float:right;
+        }
